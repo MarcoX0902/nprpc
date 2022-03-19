@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+option java_outer_classname = "RpcMetaProto";//输出的java文件的名称
+message RpcMeta {
+    string serviceName = 1;
+    string methodName = 2;
+}
