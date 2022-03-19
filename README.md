@@ -1,2 +1,2 @@
 # nprpc
-an rpc framework base on protobuf、zookeeper, developed by java  
+an rpc framework base on protobuf、zookeeper and netty, developed by java :)
